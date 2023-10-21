@@ -11,12 +11,14 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" height="20px">
   </a>
 
- <div>
+##
+ <div> 
   <a href="https://github.com/yanldc">
     
-  
+  <img width="41%" src="https://github-readme-stats.vercel.app/api?username=yanldc&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanldc&layout=compact&langs_count=16&theme=radical"/>
   
  </div>
 
+##
  <img alt="github-snake" src="https://github.com/yanldc/yanldc/blob/output/github-contribution-grid-snake-dark.svg" />
