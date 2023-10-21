@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Yan Lemke.
 
-- 📖Atualmente estou cursando Tecnologia em Sistemas para Internet no Instituto Federal Goiano. <img align="right" src="https://cdn.discordapp.com/attachments/762153500560850945/1165409944217063505/bloggif_653449d92dc26.gif?ex=6546bf96&is=65344a96&hm=4fdab97c6f204af7a5ef76a8e0c111906477947e37ca762cd6d3ef19dab4c53f&" height="160px" width="160px"> 
+- 📖Atualmente estou cursando Tecnologia em Sistemas para Internet no Instituto Federal Goiano. <img align="right" src="https://cdn.discordapp.com/attachments/762153500560850945/1165409944217063505/bloggif_653449d92dc26.gif?ex=6546bf96&is=65344a96&hm=4fdab97c6f204af7a5ef76a8e0c111906477947e37ca762cd6d3ef19dab4c53f&" height="140px" width="140px"> 
 - 🎓Formado em Agronomia também pelo Instituto Federal Goiano.
 - 👩🏼‍💻Estou à procura de emprego.
 - 📫Como chegar até mim: 
