@@ -2,7 +2,7 @@
 
 - 📖Atualmente estou cursando Tecnologia em Sistemas para Internet no Instituto Federal Goiano. <img align="right" src="https://cdn.discordapp.com/attachments/762153500560850945/1165409944217063505/bloggif_653449d92dc26.gif?ex=6546bf96&is=65344a96&hm=4fdab97c6f204af7a5ef76a8e0c111906477947e37ca762cd6d3ef19dab4c53f&" height="120px" width="120px"> 
 - 🎓Formado em Agronomia também pelo Instituto Federal Goiano.
-- 👩🏼‍💻Estou à procura de emprego.
+- 👩🏼‍💻Desenvolvedor Back-end treinee.
 - 📫Como chegar até mim: 
   <a href="mailto:yanlemkedecastro@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="20px">
